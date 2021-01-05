@@ -1,0 +1,124 @@
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Merriweather', serif;
+
+}
+
+h2{
+  font-size: 250%;
+  margin: 0 auto 0 auto;
+  color:#66BFBF;
+  font-weight: normal;
+}
+h1{
+  margin: 0 auto 20px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 560%;
+  color:#66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+.pic1{
+  width: 25%;
+  float: left;
+  padding-right: 25px;
+}
+
+.pic2{
+  width: 25%;
+  float: right;
+
+}
+
+.pro{
+  width: 15%;
+  margin: 20px auto;
+}
+
+#Android{
+  height: 17px;
+  padding:0 3px 0 3px;
+}
+.top-container{
+  background-color:#EAF6F6;
+  padding-top: 100px;
+
+}
+
+.profile{
+  margin: 50px auto;
+}
+.middle-container{
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  margin-top: 70px;
+}
+
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right:16%;/*200px*/
+  width: 12%;
+}
+.bottom-cloud{
+  position: absolute;
+  left : 16%;
+  top: 370px;
+  width: 12%;
+
+}
+
+.skills{
+  margin: 50px auto;
+  padding-bottom: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.footer-link{
+  color: #11999E;
+  padding: 30px;
+
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.contact-me{
+  margin-top: 50px;
+}
+#foot{
+  padding-top: 40px;
+  color: #EAF6F6;
+  font-size: 0.6rem;
+}
+.btn{
+  color: #11999E;
+}
+
+.mt{
+  width: 44%;
+}
+
+hr{
+  border-top: 10px dotted #EAF6F6;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 10%;
+}
